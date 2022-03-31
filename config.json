@@ -1,0 +1,27 @@
+{
+    "token": "NTQ5MzE3MzgxMjIzMjE5MjAw.XHL1rQ.FqzYrACKlyCkiB3pJzcjS8bzzEk",
+    "prefix": "!",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/959121135180583033/76E_ZUQppbbSbDFjDtciNRpGlqQ12SBN_sFtwn7W99w9eVeVgXsBooo2wW8-5I4EDn-w": {
+            "url": "https://www.vinted.fr/vetements?search_text=&search_id=4925150611&catalog[]=2050&size_id[]=208&status[]=6&status[]=1&status[]=2&price_to=70&currency=EUR&order=newest_first&brand_id[]=73952",
+            "salon": "cp-company"
+        },
+        "https://discord.com/api/webhooks/959121237483864084/sLxDjnJaqAhqToEVC28G0Ut22r3Ji5PVL-qZtQD2przGVQ-k0c2sg_TIFN9k6S5bSRPi": {
+            "url": "https://www.vinted.fr/vetements?search_text=&search_id=4925150611&catalog[]=2050&size_id[]=208&status[]=6&status[]=1&status[]=2&price_to=70&currency=EUR&brand_id[]=73306&order=newest_first",
+            "salon": "stone-island"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
